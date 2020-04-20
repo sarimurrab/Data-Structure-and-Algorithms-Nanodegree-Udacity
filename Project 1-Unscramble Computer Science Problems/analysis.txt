@@ -1,0 +1,26 @@
+Task0.py
+Complexity = O(1)
+There is no loop, so there would be constant time.
+
+Task1.py
+Complexity = O(n)
+There is loop, to access the data in list. In worst case it can go upto n.
+Execution time Directly to input.
+
+Task2.py
+Complexity = O(n)
+There is also a loop, to access the data in list. In worst case it can go upto n.
+Execution time Directly to input.
+
+Task3.py
+Complexity = O(n.logn) 
+There is sorted function which can be implemented by number of sorting algorithms.
+But the best algorithm for sorting is merge sort. Here in python there is Timsort
+behind the sorted function which is combination of merge and insertion sort.
+
+Task4.py
+Complexity = O(n.logn)
+Same as previous problem Task3.py.
+There is  aslo sorted function which can be implemented by number of sorting algorithms.
+But the best algorithm for sorting is merge sort. Here in python there is Timsort
+behind the sorted function which is combination of merge and insertion sort.
